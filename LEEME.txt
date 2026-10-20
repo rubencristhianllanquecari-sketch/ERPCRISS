@@ -1,0 +1,8 @@
+LLANQUE - DEMO LOCAL
+
+Para abrir:
+1. Extrae todos los archivos del RAR en una misma carpeta.
+2. Abre index.html con tu navegador.
+
+La página necesita index.html, venta-demo.css y venta-demo.js juntos en la misma carpeta.
+Los datos de demostración se guardan en el navegador donde se usan; este archivo no incluye esos datos.
